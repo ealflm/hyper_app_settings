@@ -1,7 +1,7 @@
 name: hyper_app_settings
 description: App settings for flutter project
 version: 0.0.1
-homepage: https://github.com/ealflm
+homepage: https://github.com/ealflm/hyper_app_settings
 
 environment:
   sdk: ">=2.18.2 <3.0.0"
